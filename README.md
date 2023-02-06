@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @skeletonkeyx0x0
-- 👀 I’m interested in learning C#
-- 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on C# beginner projects
+- 👀 I’m interested in learning C# and JS
 - 📫 How to reach me: Telegram: @blackrosex0x0
 
 <!---
