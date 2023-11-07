@@ -1,4 +1,4 @@
-- 📫Telegram: @blackrosex0x0
+
 
 <!---
 skeletonkeyx0x0/skeletonkeyx0x0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
